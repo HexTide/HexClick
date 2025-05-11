@@ -1,0 +1,9 @@
+HEXCLICK – LICENSED MODULE
+
+This module is part of the HEX Automation Ecosystem.
+It may only be used inside official bot chains.
+
+Redistribution or modification is prohibited without license.
+
+© 2025 HEX Automation – All Rights Reserved
+github.com/HexTide
